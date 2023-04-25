@@ -1,4 +1,6 @@
-This document serves as a repository for papers that I have read.  Original documentation and summaries (some times long, some times short) are provided for other researchers who may be interested.  
+========== Overview ==========
+
+This document serves as a repository for papers that I have read relevant to my research interests in computer science, applied mathematics, and aerospace systems software engineering.  Original documentation and summaries (sometimes long, sometimes short) are provided for other researchers who may be interested.
 
 ========== Computer Science ==========
 
@@ -44,6 +46,12 @@ PDF-0000:  "A Better C?" by Bjarne Stroustrup
 
 ... ...
 
-========== Aerospace Systems Engineering ==========
+========== Aerospace Systems Software Engineering ==========
+
+=== Aerospace Engineering ===
+
+... ...
+
+=== Systems Software Engineering ===
 
 ... ...
