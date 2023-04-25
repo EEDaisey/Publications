@@ -1,6 +1,0 @@
-Title:   A Better C?
-Author:  Bjarne Stroustrup
-Source:  B. Stroustrup: A Better C? BYTE Magazine, pp 215-218. August, 1988.
-Note:    See PDF-0000.pdf for the text.
-Summary:
-Bjarne makes a strong argument for the use of C++ over C.
