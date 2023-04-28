@@ -1,6 +1,6 @@
 ==================== Overview ====================
 
-This document serves as a repository for pdfs of research papers and books that I have read relevant to my research interests in computer science, applied mathematics, and aerospace systems software engineering. Hopefully these publications server you well on your own journey -- What a time to be alive! :)
+This document serves as a repository for pdfs of various publications that I have read relevant to my research interests in computer science, applied mathematics, and aerospace systems software engineering. Below is an interesting list of titles divided into various categories for each research area. Each of the titles has an ID associated with it. These IDs map to the publication in the PDF folder. Hopefully these publications serve you well on your own journey -- What a time to be alive! :)
 
 ========== Computer Science ==========
 
