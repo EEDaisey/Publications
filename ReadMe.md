@@ -1,6 +1,6 @@
 ==================== Overview ====================
 
-This document serves as a repository for papers that I have read relevant to my research interests in computer science, applied mathematics, and aerospace systems software engineering.  Original documentation and summaries (sometimes long, sometimes short) are provided for other researchers who may be interested.
+This document serves as a repository for pdfs of research papers and books that I have read relevant to my research interests in computer science, applied mathematics, and aerospace systems software engineering. Hopefully these publications server you well on your own journey -- What a time to be alive! :)
 
 ========== Computer Science ==========
 
