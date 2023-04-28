@@ -4,3 +4,5 @@ Source:  B. Stroustrup: A Better C? BYTE Magazine, pp 215-218. August, 1988.
 Note:    See PDF-0000.pdf for the text.
 Summary:
 Bjarne makes a strong argument for the use of C++ over C. Discusses the strengths of weakness of C followed by why C++ ought to be used.
+
+Note to self, add other article as PDF-0001.
