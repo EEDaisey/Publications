@@ -8,7 +8,15 @@ This document serves as a reference for publications that are relevant to my res
 
 * "A Better C?" by Bjarne Stroustrup
 
-=== Machine Learning ====
+=== Software Engineering ====
+
+... ...
+
+=== Human-Computer Interaction ===
+
+... ...
+
+=== Machine Learning ===
 
 ... ...
 
@@ -18,23 +26,19 @@ This document serves as a reference for publications that are relevant to my res
 
 ============= Applied Mathematics =============
 
-=== Differential Equations ===
-
-... ...
-
 === Operations Research ===
 
 ... ...
 
-=== Matrix Theory ===
+=== Differential Equations ===
 
 ... ...
 
-=== Probability & Frequenist Statistics ===
+=== Numerical Analysis ===
 
 ... ...
 
-=== Bayesian Statistics ===
+=== Probability & Statistics ===
 
 ... ...
 
